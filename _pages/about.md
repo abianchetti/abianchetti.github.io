@@ -27,8 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am an expert optical engineer specialising in product development.
+Hi, I’m Arturo Bianchetti — a researcher, engineer, and problem-solver based in Austria, with a background in optics, biotechnology, and data analysis. I bring a unique blend of scientific curiosity and technical expertise, shaped by years of hands-on experience across both academic and industrial settings.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I specialize in developing smart solutions for complex systems, particularly in the fields of optics, microfluidics, and signal processing.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I currently work as a freelance engineer and am always open to new challenges — especially projects at the intersection of innovation, precision engineering, and impactful science.
