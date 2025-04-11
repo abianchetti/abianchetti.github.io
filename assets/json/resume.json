@@ -7,11 +7,11 @@
     "url": "https://abianchetti.github.io",
     "summary": "Expertise in the design, fabrication and characterization of optical, microfluidic, and biosensing systems with 15+ years of experience in multi-disciplinary R&D academic and industry projects.",
     "location": {
-      "_address": "this is the address field but commented",
+      "address": "this is the address field but commented",
       "postalCode": "1070",
       "city": "Vienna",
       "countryCode": "Austria",
-      "_region": "also commented"
+      "region": "also commented"
     },
     "profiles": [
       {
