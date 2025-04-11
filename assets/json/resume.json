@@ -1,38 +1,39 @@
 {
   "basics": {
-    "name": "Arturo Bianchetti",
-    "label": "Senior scientist",
+    "name": "Albert Einstein",
+    "label": "Scientist",
     "image": "",
-    "email": "abianchetti@gmail.com",
-    "url": "https://abianchetti.github.io",
-    "summary": "Expertise in the design, fabrication and characterization of optical, microfluidic, and biosensing systems with 15+ years of experience in multi-disciplinary RD academic and industry projects.",
+    "email": "albert@einstein.de",
+    "phone": "(912) 123-4567",
+    "url": "https://alshedivat.github.io/al-folio/",
+    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
     "location": {
-      "address": "this is the address field but commented",
-      "postalCode": "1070",
-      "city": "Vienna",
-      "countryCode": "Austria",
-      "region": "also commented"
+      "address": "2712 Broadway St",
+      "postalCode": "CA 94115",
+      "city": "San Francisco",
+      "countryCode": "US",
+      "region": "California"
     },
     "profiles": [
       {
-        "network": "LinkedIn",
-        "username": "arturobianchetti",
-        "url": "https://www.linkedin.com/in/arturobianchetti/"
+        "network": "Twitter",
+        "username": "AlbertEinstein",
+        "url": "https://twitter.com/AlbertEinstein"
       }
     ]
   },
   "work": [
     {
-      "name": "Sarcura GmbH",
-      "position": "Senior staff optics engineer",
-      "url": "https://sarcura.com",
-      "startDate": "2024-10-01",
-      "endDate": "2025-04-01",
-      "summary": "Research and development of photonic structures for biosensing applications in microfluidic channels.",
-      "highlights": ["Optics Design"]
+      "name": "Institute for Advanced Study, Princeton University",
+      "position": "Professor of Theoretical Physics",
+      "url": "https://example.com",
+      "startDate": "1933-01-01",
+      "endDate": "1955-01-01",
+      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "highlights": ["Relativity"]
     }
   ],
-   "volunteer": [
+  "volunteer": [
     {
       "organization": "People's Climate March",
       "location": "Zurich, Switzerland",
