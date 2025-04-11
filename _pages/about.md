@@ -24,8 +24,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi, I’m Arturo Bianchetti — a researcher, engineer, and problem-solver based in Austria, with a background in optics, biotechnology, and data analysis. I bring a unique blend of scientific curiosity and technical expertise, shaped by years of hands-on experience across both academic and industrial settings.
+Hi, I’m Arturo Bianchetti, a researcher, engineer, and problem-solver based in Austria with a background in optics, biotechnology, and data analysis. I bring a unique blend of scientific curiosity and technical expertise, shaped by years of hands-on experience across academic and industrial settings.
 
-I specialize in developing smart solutions for complex systems, particularly in the fields of optics, microfluidics, and signal processing.
+I specialize in developing smart solutions for complex systems, particularly in optics, microfluidics, and signal processing.
 
 I currently work as a freelance engineer and am always open to new challenges — especially projects at the intersection of innovation, precision engineering, and impactful science.
