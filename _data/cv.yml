@@ -10,7 +10,7 @@
   type: time_table
   contents:
     - title: PhD in Photonics
-      bicycle: University of Buenos Aires, Argentina
+      codepen: University of Buenos Aires, Argentina
       year: 2018
 
     - title: MSc in Optoelectronics
