@@ -5,13 +5,13 @@
     "image": "",
     "email": "abianchetti@gmail.com",
     "url": "https://abianchetti.github.io",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "summary": "Expertise in the design, fabrication and characterization of optical, microfluidic, and biosensing systems with 15+ years of experience in multi-disciplinary R$\&$D academic and industry projects.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "_address": "this is the address field but commented",
+      "postalCode": "1070",
+      "city": "Vienna",
+      "countryCode": "Austria",
+      "_region": "also commented"
     },
     "profiles": [
       {
