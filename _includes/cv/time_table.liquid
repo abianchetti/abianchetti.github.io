@@ -45,9 +45,17 @@
                 {% if content.department %}
                   <tr>
                     <td style="vertical-align: top; text-align: center" class="department">
-                      <i class="fa-regular fa-circle-dot icondepartment"></i>
+                      <i class="fa-regular fa-building-dot icondepartment"></i>
                     </td>
                     <td class="department">{{ content.department }}</td>
+                  </tr>
+                {% endif %}
+                {% if content.company %}
+                  <tr>
+                    <td style="vertical-align: top; text-align: center" class="company">
+                      <i class="fa-regular fa-building iconcompany"></i>
+                    </td>
+                    <td class="company">{{ content.company }}</td>
                   </tr>
                 {% endif %}
               </tbody>
