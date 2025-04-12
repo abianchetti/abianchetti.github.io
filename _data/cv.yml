@@ -10,7 +10,7 @@
   type: time_table
   contents:
     - title: PhD in Photonics
-      codepen: University of Buenos Aires, Argentina
+      institution: University of Buenos Aires, Argentina
       year: 2018
 
     - title: MSc in Optoelectronics
@@ -21,13 +21,13 @@
   type: time_table
   contents:
     - title: Senior Staff Optics Design Engineer
-      bicycle: Sarcura GmbH, Vienna, Austria
+      department: Sarcura GmbH, Vienna, Austria
       year: 10.2024 - 04.2025
       description:
         - Senior R&D of photonic biosensors for blood cell separation in microfluidic channels.
         
     - title: Optics Design Engineer / Project Manager
-      institution: In-Vision Technologies AG, Vienna, Austria
+      department: In-Vision Technologies AG, Vienna, Austria
       year: 09.2021 - 08.2024
       description:
         - Developed projection systems for 3D printing using DMD and LCOS displays.
