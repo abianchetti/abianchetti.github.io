@@ -10,16 +10,26 @@
   type: time_table
   contents:
     - title: PhD in Photonics
-      institution: University of Buenos Aires, Argentina
+      institution: Universidad de Buenos Aires, Argentina
       year: 2018
 
     - title: MSc in Optoelectronics
-      institution: University of Buenos Aires, Argentina
+      institution: Universidad de Buenos Aires, Argentina
+      year: 2012
+
+      - title: Telecommunications engineer
+      institution: Universidad Nacional de Rio Cuarto, Argentina
       year: 2012
 
 - title: Experience
   type: time_table
   contents:
+     - title: Senior scientist
+      company: Independent contractor
+      year: 04.2025 - now
+      description:
+        - Senior R&D of optical systems.
+  
     - title: Senior Staff Optics Design Engineer
       company: Sarcura GmbH, Vienna, Austria
       year: 10.2024 - 04.2025
@@ -30,8 +40,14 @@
       company: In-Vision Technologies AG, Vienna, Austria
       year: 09.2021 - 08.2024
       description:
-        - Developed projection systems for 3D printing using DMD and LCOS displays.
+        - Developed projection systems for 3D printing using DMD displays.
         - Managed product design, from prototyping to manufacturing.
+
+      - title: Head of optics design
+      company: Stämm biotech, Buenos Aires, Argentina
+      year: 10.2019 - 08.2021
+      description:
+        - Led optical system design for high-resolution 3D printing.
 
 - title: Open Source Projects
   type: time_table
