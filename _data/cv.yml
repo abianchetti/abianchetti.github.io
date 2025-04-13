@@ -5,7 +5,7 @@
       value: Arturo Bianchetti
     - name: Languages
       value: English
-      
+
 - title: Education
   type: time_table
   contents:
@@ -20,20 +20,20 @@
 - title: Experience
   type: time_table
   contents:
-     - title: Senior scientist
+    - title: Senior scientist
       company: Independent contractor
       year: 04.2025 - now
       description:
         - Senior R&D of optical systems.
         - Design and optimization of optical systems using Zemax.
         - Optomechanics design with Solidworks.
-  
+
     - title: Senior Staff Optics Design Engineer
       company: Sarcura GmbH, Vienna, Austria
       year: 10.2024 - 04.2025
       description:
         - Senior R&D of photonic biosensors for blood cell separation in microfluidic channels.
-        
+
     - title: Optics Design Engineer / Project Manager
       company: In-Vision Technologies AG, Vienna, Austria
       year: 09.2021 - 08.2024
@@ -41,7 +41,7 @@
         - Developed projection systems for 3D printing using DMD displays.
         - Managed product design, from prototyping to manufacturing.
 
-      - title: Head of optics design
+    - title: Head of optics design
       company: Stämm biotech, Buenos Aires, Argentina
       year: 10.2019 - 08.2021
       description:
@@ -50,13 +50,11 @@
 - title: Teaching
   type: time_table
   contents:
-     - title: Senior scientist
-      company: Independent contractor
-      year: 04.2025 - now
+    - title: Guest Lecturer
+      company: Universidad de Buenos Aires
+      year: 2020
       description:
-        - Senior R&D of optical systems.
-        - Design and optimization of optical systems using Zemax.
-        - Optomechanics design with Solidworks.
+        - Lectured on photonics and biomedical optics for graduate-level students.
 
 - title: Open Source Projects
   type: time_table
@@ -87,7 +85,7 @@
       items:
         - Description 1.
         - Description 2.
-        
+
 - title: Other Interests
   type: list
   contents:
