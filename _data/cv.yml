@@ -21,13 +21,13 @@
   type: time_table
   contents:
     - title: Senior Staff Optics Design Engineer
-      department: Sarcura GmbH, Vienna, Austria
+      company: Sarcura GmbH, Vienna, Austria
       year: 10.2024 - 04.2025
       description:
         - Senior R&D of photonic biosensors for blood cell separation in microfluidic channels.
         
     - title: Optics Design Engineer / Project Manager
-      department: In-Vision Technologies AG, Vienna, Austria
+      company: In-Vision Technologies AG, Vienna, Austria
       year: 09.2021 - 08.2024
       description:
         - Developed projection systems for 3D printing using DMD and LCOS displays.
