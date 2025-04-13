@@ -4,8 +4,8 @@
     - name: Full Name
       value: Arturo Bianchetti
     - name: email
-      value: English (fluent), German (B1), Spanish (native) 
-
+      value: abianchetti@gmail.com
+      
 - title: Education
   type: time_table
   contents:
@@ -29,6 +29,8 @@
       year: 04.2025 - now
       description:
         - Senior R&D of optical systems.
+        - Design and optimization of optical systems using Zemax.
+        - Optomechanics design with Solidworks.
   
     - title: Senior Staff Optics Design Engineer
       company: Sarcura GmbH, Vienna, Austria
