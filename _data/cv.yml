@@ -3,7 +3,7 @@
   contents:
     - name: Full Name
       value: Arturo Bianchetti
-    - name: Languages
+    - name: email
       value: English (fluent), German (B1), Spanish (native) 
 
 - title: Education
@@ -78,6 +78,12 @@
       items:
         - Description 1.
         - Description 2.
+        
+- title: Languages
+  type: map
+  contents:
+    - name: Languages
+      value: English (fluent), German (B1), Spanish (native) 
 
 - title: Other Interests
   type: list
