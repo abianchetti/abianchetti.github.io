@@ -51,6 +51,17 @@
       description:
         - Led optical system design for high-resolution 3D printing.
 
+- title: Teaching
+  type: time_table
+  contents:
+     - title: Senior scientist
+      company: Independent contractor
+      year: 04.2025 - now
+      description:
+        - Senior R&D of optical systems.
+        - Design and optimization of optical systems using Zemax.
+        - Optomechanics design with Solidworks.
+
 - title: Open Source Projects
   type: time_table
   contents:
@@ -81,12 +92,6 @@
         - Description 1.
         - Description 2.
         
-- title: Languages
-  type: map
-  contents:
-    - name: Languages
-      value: English (fluent), German (B1), Spanish (native) 
-
 - title: Other Interests
   type: list
   contents:
