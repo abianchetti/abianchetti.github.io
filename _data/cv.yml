@@ -4,7 +4,7 @@
     - name: Full Name
       value: Arturo Bianchetti
     - name: Languages
-      value: abianchettigmail.com
+      value: English
       
 - title: Education
   type: time_table
@@ -15,10 +15,6 @@
 
     - title: MSc in Optoelectronics
       institution: Universidad de Buenos Aires, Argentina
-      year: 2012
-
-      - title: Telecommunications engineer
-      institution: Universidad Nacional de Rio Cuarto, Argentina
       year: 2012
 
 - title: Experience
