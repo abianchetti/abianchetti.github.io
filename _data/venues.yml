@@ -8,43 +8,32 @@
 "Vision":
   color: "#009f36"
 
-JOptA:
-  name: Journal of Optics A: Pure and Applied Optics
+"JOptA":
   url: https://iopscience.iop.org/journal/1464-4258
 
-SPIE:
-  name: Proceedings of SPIE
+"SPIE":
   url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie
 
-ApplOpt:
-  name: Applied Optics
+"ApplOpt":
   url: https://www.osapublishing.org/ao/home.cfm
 
-RSCAdv:
-  name: RSC Advances
+"RSCAdv":
   url: https://pubs.rsc.org/en/journals/journal/rsc
 
-MicroNano:
-  name: Microfluidics and Nanofluidics
+"MicroNano":
   url: https://www.springer.com/journal/10404
 
-OptLasEng:
-  name: Optics and Lasers in Engineering
+"OptLasEng":
   url: https://www.journals.elsevier.com/optics-and-lasers-in-engineering
 
-OptEng:
-  name: Optical Engineering
+"OptEng":
   url: https://www.spiedigitallibrary.org/journals/optical-engineering
 
-OptCommun:
-  name: Optics Communications
+"OptCommun":
   url: https://www.journals.elsevier.com/optics-communications
 
-PLoSOne:
-  name: PLOS ONE
+"PLoSOne":
   url: https://journals.plos.org/plosone/
 
-DH:
-  name: Digital Holography and Three-Dimensional Imaging
+"DH":
   url: https://www.osapublishing.org/conference.cfm?meetingid=69
-
