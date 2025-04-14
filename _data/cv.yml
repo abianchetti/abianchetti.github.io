@@ -1,4 +1,4 @@
-- title: Personal data
+r- title: Personal data
   type: map
   contents:
     - name: Full Name
@@ -18,16 +18,16 @@
     - Skilled in multi-disciplinary research and product development, and leading cross-functional teams.
 
 - title: Technical Skills
-  type: list
+  type: nested_list
   contents:
-    - name: Optical Design
-      value: Proficient in optical systems design using Zemax.
-    - name: Software
-      value: Python, R, Matlab, OpenCV, SolidWorks.
-    - name: Microfluidics
-      value: Expertise in biosensor design and microchip fabrication.
-    - name: Project Management
-      value: Full-cycle product design, from concept to prototyping and manufacturing.
+    - title: Optical Design
+      items: - Proficient in optical systems design using Zemax.
+    - title: Software
+      items: - Python, R, Matlab, OpenCV, SolidWorks.
+    - title: Microfluidics
+      items: - Expertise in biosensor design and microchip fabrication.
+    - title: Project Management
+      items: - Full-cycle product design, from concept to prototyping and manufacturing.
 
 - title: Education
   type: time_table
