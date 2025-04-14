@@ -6,7 +6,7 @@
     - name: Title
       value: Senior R&D Scientist
     - name: Email
-      value: abianchetti@gmail.com
+      value: <a href="mailto:abianchetti@gmail.com">abianchetti@gmail.com</a>
     - name: LinkedIn
       value: <a href="https://www.linkedin.com/in/arturobianchetti/" target="_blank">arturobianchetti</a>
 
