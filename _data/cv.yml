@@ -21,13 +21,17 @@ r- title: Personal data
   type: nested_list
   contents:
     - title: Optical Design
-      items: - Proficient in optical systems design using Zemax.
+      items: 
+        - Proficient in optical systems design using Zemax.
     - title: Software
-      items: - Python, R, Matlab, OpenCV, SolidWorks.
+      items: 
+        - Python, R, Matlab, OpenCV, SolidWorks.
     - title: Microfluidics
-      items: - Expertise in biosensor design and microchip fabrication.
+      items: 
+        - Expertise in biosensor design and microchip fabrication.
     - title: Project Management
-      items: - Full-cycle product design, from concept to prototyping and manufacturing.
+      items: 
+        - Full-cycle product design, from concept to prototyping and manufacturing.
 
 - title: Education
   type: time_table
