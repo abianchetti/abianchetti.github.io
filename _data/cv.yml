@@ -18,7 +18,7 @@
     - Skilled in multi-disciplinary research and product development, and leading cross-functional teams.
 
 - title: Technical Skills
-  type: nested_list
+  type: list
   contents:
     - title: Optical Design
       items:
