@@ -116,7 +116,7 @@
 - title: Publications
   type: list
   contents:
-    - Here is a list of my publications https://scholar.google.com/citations?hl=en&user=WsxgdKwAAAAJ.
+    - Here is a list of my publications  - <a href="https://scholar.google.com/citations?hl=en&user=WsxgdKwAAAAJ" target="_blank">Google Scholar Profile</a>
 
 - title: Teaching
   type: time_table
