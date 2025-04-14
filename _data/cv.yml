@@ -2,9 +2,40 @@
   type: map
   contents:
     - name: Full Name
-      value: Arturo Bianchetti
-    - name: Languages
-      value: English
+      value: Dr. Arturo Bianchetti
+    - name: Title
+      value: Senior R&D Scientist
+    - name: Mobile
+      value: +43 676 427 6935
+    - name: Email
+      value: abianchetti@gmail.com
+    - name: LinkedIn
+      value: arturobianchetti
+    - name: Address
+      value: Neubau, 1070, Vienna, Austria
+
+- title: Expertise
+  type: list
+  contents:
+    - Senior R&D Scientist specialising in optical design, microfluidics, and biosensing systems.
+    - Proven experience designing, developing, and prototyping optical systems for display technologies.
+    - Skilled in multi-disciplinary research and product development, and leading cross-functional teams.
+
+- title: Technical Skills
+  type: nested_list
+  contents:
+    - title: Optical Design
+      items:
+        - Proficient in optical systems design using Zemax.
+    - title: Software
+      items:
+        - Python, R, Matlab, OpenCV, SolidWorks.
+    - title: Microfluidics
+      items:
+        - Expertise in biosensor design and microchip fabrication.
+    - title: Project Management
+      items:
+        - Full-cycle product design, from concept to prototyping and manufacturing.
 
 - title: Education
   type: time_table
@@ -12,81 +43,99 @@
     - title: PhD in Photonics
       institution: Universidad de Buenos Aires, Argentina
       year: 2018
-
-    - title: MSc in Optoelectronics
+    - title: Master in Optoelectronics
       institution: Universidad de Buenos Aires, Argentina
       year: 2012
+    - title: Telecommunications Engineer
+      institution: Universidad Nacional de Río Cuarto, Argentina
+      year: 2005
 
 - title: Experience
   type: time_table
   contents:
-    - title: Senior scientist
-      company: Independent contractor
-      year: 04.2025 - now
-      description:
-        - Senior R&D of optical systems.
-        - Design and optimization of optical systems using Zemax.
-        - Optomechanics design with Solidworks.
-
     - title: Senior Staff Optics Design Engineer
       company: Sarcura GmbH, Vienna, Austria
-      year: 10.2024 - 04.2025
+      year: 10.2024 – now
       description:
         - Senior R&D of photonic biosensors for blood cell separation in microfluidic channels.
-
     - title: Optics Design Engineer / Project Manager
-      company: In-Vision Technologies AG, Vienna, Austria
-      year: 09.2021 - 08.2024
+      company: In-Vision, Vienna, Austria
+      year: 10.2021 – 08.2024
       description:
-        - Developed projection systems for 3D printing using DMD displays.
+        - Developed projection systems for 3D printing using DMD and LCOS displays.
         - Managed product design, from prototyping to manufacturing.
-
-    - title: Head of optics design
-      company: Stämm biotech, Buenos Aires, Argentina
-      year: 10.2019 - 08.2021
+    - title: Head of Optics Design
+      company: Stämm Biotech, Buenos Aires, Argentina
+      year: 10.2019 – 08.2021
       description:
-        - Led optical system design for high-resolution 3D printing.
+        - Led optical system design for super-resolution 3D printing using microlens arrays.
+    - title: Assistant Researcher
+      company: CONICET, Buenos Aires, Argentina
+      year: 11.2018 – 08.2021
+      description:
+        - Developed novel biosensing systems integrating optics and microfluidics.
+    - title: Postdoctoral Researcher
+      company: University of Exeter, UK
+      year: 01.2019 – 03.2019
+      description:
+        - Researched whispering-gallery mode photonic sensors for biosensing.
+    - title: PhD Researcher
+      company: Max Planck Institute, Erlangen, Germany
+      year: 01.2016 – 08.2016
+      description:
+        - Researched whispering-gallery mode sensors.
+    - title: PhD Researcher
+      company: Instituto Nacional de Tecnología Industrial, Argentina
+      year: 05.2012 – 11.2018
+      description:
+        - Developed interferometric techniques for nanoscale surface measurement.
+
+- title: Research Grants
+  type: time_table
+  contents:
+    - year: 2019
+      items:
+        - GCRF Grant: Project on microfluidic biosensors for Zika virus detection.
+    - year: 2016
+      items:
+        - Bunge & Born / Max Planck Grant: Funding for biosensing research.
+
+- title: Product Portfolio
+  type: time_table
+  contents:
+    - year: 2023
+      items:
+        - Sub-micron 3D Printer for Semiconductor Industry
+    - year: 2022
+      items:
+        - Native 4k Light Engine for Optical Manufacturing
+    - year: 2021
+      items:
+        - Super-resolution 3D Printer for bioprocessor fabrication
+
+- title: Publications
+  type: list
+  contents:
+    - Here is a list of my publications https://scholar.google.com/citations?hl=en&user=WsxgdKwAAAAJ.
 
 - title: Teaching
   type: time_table
   contents:
-    - title: Guest Lecturer
-      company: Universidad de Buenos Aires
-      year: 2020
-      description:
-        - Lectured on photonics and biomedical optics for graduate-level students.
+    - title: Assistant Physics II (Electromagnetism) Professor
+      company: Universidad de Buenos Aires, Argentina
+      year: 04.2014 – 08.2021
+    - title: Assistant Physics II (Electromagnetism) Professor
+      company: Universidad de Belgrano, Argentina
+      year: 07.2008 – 07.2010
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
+- title: Languages
   type: list
   contents:
-    - <u>Hobbies:</u> Bouldering, Cycling, etc.
+    - Spanish (native)
+    - English (fluent)
+    - German (B1, ongoing course)
+
+- title: Leisure Interests
+  type: list
+  contents:
+    - Enthusiast of climbing, cycling, and learning languages.
