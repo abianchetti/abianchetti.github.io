@@ -18,7 +18,7 @@
     - Skilled in multi-disciplinary research and product development, and leading cross-functional teams.
 
 - title: Technical Skills
-  type: list
+  type: map
   contents:
     - name: Optical Design
       value: Proficient in optical systems design using Zemax.
