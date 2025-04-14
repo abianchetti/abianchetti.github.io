@@ -2,7 +2,7 @@
   type: map
   contents:
     - name: Full Name
-      value: Dr. Arturo Bianchetti
+      value: Arturo Bianchetti
     - name: Title
       value: Senior R&D Scientist
     - name: Email
@@ -20,18 +20,14 @@
 - title: Technical Skills
   type: list
   contents:
-    - title: Optical Design
-      items:
-        - Proficient in optical systems design using Zemax.
-    - title: Software
-      items:
-        - Python, R, Matlab, OpenCV, SolidWorks.
-    - title: Microfluidics
-      items:
-        - Expertise in biosensor design and microchip fabrication.
-    - title: Project Management
-      items:
-        - Full-cycle product design, from concept to prototyping and manufacturing.
+    - name: Optical Design
+      value: Proficient in optical systems design using Zemax.
+    - name: Software
+      value: Python, R, Matlab, OpenCV, SolidWorks.
+    - name: Microfluidics
+      value: Expertise in biosensor design and microchip fabrication.
+    - name: Project Management
+      value: Full-cycle product design, from concept to prototyping and manufacturing.
 
 - title: Education
   type: time_table
@@ -49,11 +45,16 @@
 - title: Experience
   type: time_table
   contents:
+      - title: Senior R&D Scientist
+      company: Independent contractor, Vienna, Austria
+      year: 05.2024 – now
+      description:
+        - Senior R&D of photonic biosensors for blood cell sorting in microfluidic channels.
     - title: Senior Staff Optics Design Engineer
       company: Sarcura GmbH, Vienna, Austria
-      year: 10.2024 – now
+      year: 10.2024 – 04.2025
       description:
-        - Senior R&D of photonic biosensors for blood cell separation in microfluidic channels.
+        - Senior R&D of photonic biosensors for blood cell sorting in microfluidic channels.
     - title: Optics Design Engineer / Project Manager
       company: In-Vision, Vienna, Austria
       year: 10.2021 – 08.2024
