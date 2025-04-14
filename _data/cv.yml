@@ -5,14 +5,10 @@
       value: Dr. Arturo Bianchetti
     - name: Title
       value: Senior R&D Scientist
-    - name: Mobile
-      value: +43 676 427 6935
     - name: Email
       value: abianchetti@gmail.com
     - name: LinkedIn
-      value: arturobianchetti
-    - name: Address
-      value: Neubau, 1070, Vienna, Austria
+      value: <a href="https://www.linkedin.com/in/arturobianchetti/" target="_blank">arturobianchetti</a>
 
 - title: Expertise
   type: list
@@ -116,8 +112,8 @@
 - title: Publications
   type: list
   contents:
-    - Here is a list of my publications  - <a href="https://scholar.google.com/citations?hl=en&user=WsxgdKwAAAAJ" target="_blank">Google Scholar Profile</a>
-
+    - <a href="https://scholar.google.com/citations?hl=en&user=WsxgdKwAAAAJ" target="_blank">Here</a> is a list of my publications.
+    
 - title: Teaching
   type: time_table
   contents:
