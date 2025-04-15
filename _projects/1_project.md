@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Native 4k Light Engine for Optical Manufacturing
-description: I contributed to the optical design of this light engine. Photo by <a href="https://unsplash.com/@alex_andrews?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Alexander Andrews</a> on <a href="https://unsplash.com/photos/a-close-up-of-a-camera-lens-on-a-black-background-fb7pmlbc-Xg?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>.
+title: Super-resolution 3D Printer for bioprocessor fabrication
+description: I was the optical designer of a high-resolution 3D printer concept for the fabrication of bioprocessors.
       
-img: assets/img/101.jpg
-redirect: https://in-vision.at/blog/post/in-vision-announces-world-s-first-native-4k-light-engine
+img: assets/img/102.jpg
+redirect: https://www.stamm.bio/
 importance: 3
 category: work
 ---
