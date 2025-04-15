@@ -411,7 +411,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-native-4k-light-engine-for-optical-manufacturing",
           title: 'Native 4k Light Engine for Optical Manufacturing',
-          description: "Design of an illumination system for a DMD-based UV projector.",
+          description: "I was the optical designer of this light engine.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{
