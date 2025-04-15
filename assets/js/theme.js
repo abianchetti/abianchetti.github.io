@@ -1,34 +1,34 @@
 // Has to be in the head tag, otherwise a flicker effect will occur.
 
 // Toggle through light, dark, and system theme settings.
-//let toggleThemeSetting = () => {
-//  let themeSetting = determineThemeSetting();
-//  if (themeSetting == "system") {
-//    setThemeSetting("light");
-//  } else if (themeSetting == "light") {
-//    setThemeSetting("dark");
-//  } else {
-//    setThemeSetting("system");
-//  }
-//};
+let toggleThemeSetting = () => {
+  let themeSetting = determineThemeSetting();
+  if (themeSetting == "system") {
+    setThemeSetting("light");
+  } else if (themeSetting == "light") {
+    setThemeSetting("dark");
+  } else {
+    setThemeSetting("system");
+  }
+};
 
 // Change the theme setting and apply the theme.
-//let setThemeSetting = (themeSetting) => {
-//  localStorage.setItem("theme", themeSetting);
+let setThemeSetting = (themeSetting) => {
+  localStorage.setItem("theme", themeSetting);
 
-//  document.documentElement.setAttribute("data-theme-setting", themeSetting);
+  document.documentElement.setAttribute("data-theme-setting", themeSetting);
 
-//  applyTheme();
-//};
+  applyTheme();
+};
 
 // Apply the computed dark or light theme to the website.
-//let applyTheme = () => {
-//  let theme = determineComputedTheme();
+let applyTheme = () => {
+  let theme = determineComputedTheme();
 
-//  transTheme();
-//  setHighlight(theme);
-//  setGiscusTheme(theme);
-//  setSearchTheme(theme);
+  transTheme();
+  setHighlight(theme);
+  setGiscusTheme(theme);
+  setSearchTheme(theme);
 
   // if mermaid is not defined, do nothing
   if (typeof mermaid !== "undefined") {
