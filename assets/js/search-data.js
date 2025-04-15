@@ -413,7 +413,7 @@ ninja.data = [{
           title: 'Native 4k Light Engine for Optical Manufacturing',
           description: "I contributed to the optical design of this light engine. Photo by Alexander Andrews on Unsplash.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
+              window.location.href = "/projects/2_project/";
             },},{
         id: 'social-email',
         title: 'email',
