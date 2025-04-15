@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Native 4k Light Engine for Optical Manufacturing
-description: Design of an illumination system for a DMD-based UV projector.
-img: assets/img/1.jpg
+description: I was the optical designer of this light engine.
+img: assets/img/101.jpg
 redirect: https://in-vision.at/blog/post/in-vision-announces-world-s-first-native-4k-light-engine
 importance: 3
 category: work
