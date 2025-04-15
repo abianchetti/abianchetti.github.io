@@ -416,7 +416,7 @@ ninja.data = [{
               window.location.href = "/projects/1_project/";
             },},{id: "projects-native-4k-light-engine-for-optical-manufacturing",
           title: 'Native 4k Light Engine for Optical Manufacturing',
-          description: "I contributed to the optical design of this light engine. Photo by Alexander Andrews on Unsplash.",
+          description: "I contributed to the optical design of this light engine. Photo by Alex Andrews.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{
