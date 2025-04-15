@@ -36,9 +36,15 @@
 - title: Education
   type: time_table
   contents:
+    - title: Postdoctoral Researcher
+      institution: University of Exeter, UK
+      year: 01.2019 – 03.2019
     - title: PhD in Photonics
       institution: Universidad de Buenos Aires, Argentina
       year: 2018
+    - title: PhD Researcher
+      institution: Max Planck Institute, Erlangen, Germany
+      year: 01.2016 – 08.2016
     - title: Master in Optoelectronics
       institution: Universidad de Buenos Aires, Argentina
       year: 2012
@@ -112,7 +118,7 @@
         - <a href="https://in-vision.at/blog/post/in-vision-announces-world-s-first-native-4k-light-engine" target="_blank">Native 4k Light Engine for Optical Manufacturing</a>
     - year: 2021
       items:
-        - <a href="https://www.stamm.bio/" target="_blank">Super-resolution 3D Printer for bioprocessor fabrication</a>
+        - <a href="https://3dprintingindustry.com/news/stamm-biotech-raises-17m-to-develop-desktop-3d-printed-bioreactor-205297/" target="_blank">Super-resolution 3D Printer for bioprocessor fabrication</a>
 
 - title: Publications
   type: list
