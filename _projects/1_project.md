@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Super-resolution 3D Printer for bioprocessor fabrication
-description: I was the optical designer of a high-resolution 3D printer concept for the fabrication of bioprocessors. Photo by <a href="https://unsplash.com/@yaelyanez?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Yael Yañez</a> on <a href="https://unsplash.com/photos/black-camera-lens-with-green-light-EAQle5m8Fu8?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>.
+description: I was the optical designer of a high-resolution 3D printer concept for the fabrication of bioprocessors. Photo by Yael Yañez on Unsplash.
       
 img: assets/img/102.jpg
 redirect: https://www.stamm.bio/
