@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Native 4k Light Engine for Optical Manufacturing
-description: I was the optical designer of this light engine.
+description: I contributed to the optical design of this light engine. Photo by <a href="https://unsplash.com/@alex_andrews?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Alexander Andrews</a> on <a href="https://unsplash.com/photos/a-close-up-of-a-camera-lens-on-a-black-background-fb7pmlbc-Xg?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>.
+      
 img: assets/img/101.jpg
 redirect: https://in-vision.at/blog/post/in-vision-announces-world-s-first-native-4k-light-engine
 importance: 3
