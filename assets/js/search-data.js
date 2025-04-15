@@ -411,7 +411,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-super-resolution-3d-printer-for-bioprocessor-fabrication",
           title: 'Super-resolution 3D Printer for bioprocessor fabrication',
-          description: "I was the optical designer of a high-resolution 3D printer concept for the fabrication of bioprocessors.",
+          description: "I was the optical designer of a high-resolution 3D printer concept for the fabrication of bioprocessors. Photo by Yael Yañez on Unsplash.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-native-4k-light-engine-for-optical-manufacturing",
