@@ -409,11 +409,11 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+          section: "News",},{id: "projects-native-4k-light-engine-for-optical-manufacturing",
+          title: 'Native 4k Light Engine for Optical Manufacturing',
+          description: "Design of an illumination system for a DMD-based UV projector.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
+              window.location.href = "/projects/1_project/";
             },},{
         id: 'social-email',
         title: 'email',
