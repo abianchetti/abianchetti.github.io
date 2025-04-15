@@ -409,9 +409,9 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-native-4k-light-engine-for-optical-manufacturing",
-          title: 'Native 4k Light Engine for Optical Manufacturing',
-          description: "I contributed to the optical design of this light engine. Photo by Alexander Andrews on Unsplash.",
+          section: "News",},{id: "projects-super-resolution-3d-printer-for-bioprocessor-fabrication",
+          title: 'Super-resolution 3D Printer for bioprocessor fabrication',
+          description: "I was the optical designer of a high-resolution 3D printer concept for the fabrication of bioprocessors.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-native-4k-light-engine-for-optical-manufacturing",
