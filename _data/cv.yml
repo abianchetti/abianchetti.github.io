@@ -59,7 +59,8 @@
       company: Independent contractor, Vienna, Austria
       year: 05.2024 – now
       description:
-        - Senior R&D of photonic biosensors for blood cell sorting in microfluidic channels.
+        - Senior R&D of optics and photonics systems.
+        - Product development.
     - title: Senior Staff Optics Design Engineer
       company: Sarcura GmbH, Vienna, Austria
       year: 10.2024 – 04.2025
@@ -101,10 +102,10 @@
   type: time_table
   contents:
     - year: 2019
-      items:
+      description:
         - GCRF Grant: Project on microfluidic biosensors for Zika virus detection.
     - year: 2016
-      items:
+      description:
         - Bunge & Born / Max Planck Grant: Funding for biosensing research.
 
 - title: Product Portfolio
