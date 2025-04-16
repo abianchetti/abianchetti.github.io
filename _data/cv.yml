@@ -11,7 +11,7 @@
       value: <a href="https://www.linkedin.com/in/arturobianchetti/" target="_blank">arturobianchetti</a>
 
 - title: Expertise
-  type: list
+  type: time_table
   contents:
     description:
     - Senior R&D Scientist specialising in optical design, microfluidics, and biosensing systems.
