@@ -46,15 +46,15 @@
   #light-toggle-system {
     padding-left: 10px;
     padding-top: 12px;
-    display: none;
+    display: block;
   }
 
   #light-toggle-dark {
-    display: none;
+    display: block;
   }
 
   #light-toggle-light {
-    display: none;
+    display: block;
   }
 
   .only-light {
@@ -62,7 +62,7 @@
   }
 
   .only-dark {
-    display: none;
+    display: block;
   }
 
   #back-to-top {
