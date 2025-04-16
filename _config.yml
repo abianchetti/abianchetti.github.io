@@ -15,7 +15,7 @@ footer_text: >
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 keywords: optical engineer, photonics, biosensing, microfluidics, lens design, DMD projection, biomedical optics, 3D printing, interferometry, holography, freelance optics consultant, zemax, solidworks # add your own keywords or leave empty
-lang: en, es # the language of your site (for example: en, fr, cn, ru, etc.)
+lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: "ab512.png" # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://abianchetti.github.io # the base hostname & protocol for your site
@@ -50,7 +50,7 @@ rss_icon: true
 
 navbar_fixed: true
 footer_fixed: true
-search_enabled: true
+search_enabled: false
 socials_in_search: true
 posts_in_search: true
 bib_search: true
