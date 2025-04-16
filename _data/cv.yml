@@ -6,9 +6,9 @@
     - name: Title
       value: Senior R&D Scientist
     - name: Email
-      value: <a href="mailto:abianchetti@gmail.com">abianchetti@gmail.com</a>
+      value: abianchetti@gmail.com
     - name: LinkedIn
-      value: <a href="https://www.linkedin.com/in/arturobianchetti/" target="_blank">arturobianchetti</a>
+      value: https://www.linkedin.com/in/arturobianchetti/
 
 - title: Expertise
   type: list
@@ -22,17 +22,16 @@
   contents:
     - title: Optical Design 
       description:
-          - Proficient in optical systems design using Zemax."
+        - Proficient in optical systems design using Zemax.
     - title: Software 
       description:
-          - Python, R, Matlab, OpenCV, SolidWorks."
+        - Python, R, Matlab, OpenCV, SolidWorks.
     - title: Microfluidics
       description:
-          - Expertise in biosensor design and microchip fabrication."
+        - Expertise in biosensor design and microchip fabrication.
     - title: Project Management
       description:
-          - Full-cycle product design, from concept to prototyping and manufacturing."
-
+        - Full-cycle product design, from concept to prototyping and manufacturing.
 
 - title: Education
   type: time_table
@@ -126,15 +125,15 @@
   type: list
   contents:
     - <a href="https://scholar.google.com/citations?hl=en&user=WsxgdKwAAAAJ" target="_blank">Here</a> is a list of my publications.
-    
+
 - title: Teaching
   type: time_table
   contents:
     - title: Assistant Physics II (Electromagnetism) Professor
-      company: Universidad de Buenos Aires, Argentina
+      institution: Universidad de Buenos Aires, Argentina
       year: 04.2014 – 08.2021
     - title: Assistant Physics II (Electromagnetism) Professor
-      company: Universidad de Belgrano, Argentina
+      institution: Universidad de Belgrano, Argentina
       year: 07.2008 – 07.2010
 
 - title: Languages
