@@ -13,8 +13,11 @@
 - title: Expertise
   type: list
   contents:
+    description:
     - Senior R&D Scientist specialising in optical design, microfluidics, and biosensing systems.
+    description:
     - Proven experience designing, developing, and prototyping optical systems for display technologies.
+    description:
     - Skilled in multi-disciplinary research and product development, and leading cross-functional teams.
 
 - title: Technical Skills
