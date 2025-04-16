@@ -21,20 +21,13 @@
     - Skilled in multi-disciplinary research and product development, and leading cross-functional teams.
 
 - title: Technical Skills
-  type: nested_list
+  type: list
   contents:
-    - title: Optical Design
-      items: 
-        - Proficient in optical systems design using Zemax.
-    - title: Software
-      items: 
-        - Python, R, Matlab, OpenCV, SolidWorks.
-    - title: Microfluidics
-      items: 
-        - Expertise in biosensor design and microchip fabrication.
-    - title: Project Management
-      items: 
-        - Full-cycle product design, from concept to prototyping and manufacturing.
+    - "**Optical Design**: Proficient in optical systems design using Zemax."
+    - "**Software**: Python, R, Matlab, OpenCV, SolidWorks."
+    - "**Microfluidics**: Expertise in biosensor design and microchip fabrication."
+    - "**Project Management**: Full-cycle product design, from concept to prototyping and manufacturing."
+
 
 - title: Education
   type: time_table
