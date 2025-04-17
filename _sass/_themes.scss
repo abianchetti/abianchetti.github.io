@@ -54,15 +54,15 @@
   }
 
   #light-toggle-light {
-    display: block;
-  }
-
-  .only-light {
     display: none;
   }
 
-  .only-dark {
+  .only-light {
     display: block;
+  }
+
+  .only-dark {
+    display: none;
   }
 
   #back-to-top {
