@@ -8,14 +8,17 @@
     - name: Email
       value: abianchetti@gmail.com
     - name: LinkedIn
-      value: https://www.linkedin.com/in/arturobianchetti/
+      value: <a href="https://www.linkedin.com/in/arturobianchetti/" target="_blank">arturobianchetti</a>
 
 - title: Expertise
-  type: list
+  type: time_table
   contents:
-    - Senior R&D Scientist specialising in optical design, microfluidics, and biosensing systems.
-    - Proven experience designing, developing, and prototyping optical systems for display technologies.
-    - Skilled in multi-disciplinary research and product development, and leading cross-functional teams.
+    - title: 
+      description: Senior R&D Scientist specialising in optical design, microfluidics, and biosensing systems.
+    - title: 
+      description: Proven experience designing, developing, and prototyping optical systems for display technologies.
+    - title: 
+      description: Skilled in multi-disciplinary research and product development, and leading cross-functional teams.
 
 - title: Technical Skills
   type: time_table
@@ -137,11 +140,11 @@
       year: 07.2008 – 07.2010
 
 - title: Languages
-  type: list
+  type: time_table
   contents:
-    - Spanish (native)
-    - English (fluent)
-    - German (B1, ongoing course)
+    - title: Spanish (native)
+    - title: English (fluent)
+    - title: German (B1, ongoing course)
 
 - title: Leisure Interests
   type: list
