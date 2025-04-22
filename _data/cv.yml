@@ -142,9 +142,12 @@
 - title: Languages
   type: time_table
   contents:
-    - title: Spanish (native)
-    - title: English (fluent)
-    - title: German (B1, ongoing course)
+    - title:
+      description: Spanish (native)
+    - title:
+      description: English (fluent)
+    - title:
+      description: German (B1, ongoing course)
 
 - title: Leisure Interests
   type: list
